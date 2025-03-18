@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "congress-gov-api-client"
-version = "3.0.3"
+version = "3.0.4"
 description = "A client library for accessing Congress.gov API"
 authors = ["Benjamin Rapaport <benjamin.rapaport@gmail.com>"]
 readme = "README.md"
